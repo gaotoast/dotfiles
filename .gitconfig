@@ -1,0 +1,13 @@
+[user]
+	name = shorei
+	email = 160503699+gaotoast@users.noreply.github.com
+[init]
+	defaultBranch = main
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
+[pull]
+	rebase = true
+[fetch]
+	prune = true

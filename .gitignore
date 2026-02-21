@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Secrets / sensitive files
+*.pem
+*.key
+id_rsa
+id_ed25519
