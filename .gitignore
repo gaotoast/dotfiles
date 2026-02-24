@@ -1,8 +1,19 @@
 # macOS
 .DS_Store
 
+# vscode
+.vscode
+*.code-workspace
+
 # Secrets / sensitive files
 *.pem
 *.key
 id_rsa
 id_ed25519
+
+# AI agents
+CLAUDE.md
+.claude/
+.cursor/
+.aider*
+.copilot/
