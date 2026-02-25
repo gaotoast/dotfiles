@@ -1,0 +1,10 @@
+{
+  "language": "japanese",
+  "enabledPlugins": {
+    "clangd-lsp@claude-plugins-official": true
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "sh /Users/shorei/.claude/statusline-command.sh"
+  }
+}

@@ -13,7 +13,6 @@ id_ed25519
 
 # AI agents
 CLAUDE.md
-.claude/
 .cursor/
 .aider*
 .copilot/
